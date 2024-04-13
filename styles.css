@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  .dice-container {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #scores {
+    margin-top: 20px;
+  }
+  
+  #winnerMsg {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
